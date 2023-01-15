@@ -22,4 +22,6 @@
 * Big O Notation: O(nlogn)
 
 ## Binary Search Tree Projesi
-* [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
+* [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisi için root 5 olup her düğüm için küçük değerler sol tarafta büyük değerler sağ tarafta olacak şekilde yerleştirildi.
+
+<img src="https://raw.githubusercontent.com/FatihErisen/VeriYapilariVeAlgoritmalar/main/BinarySearchTree.jpg" width="500">
